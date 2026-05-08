@@ -73,15 +73,17 @@ const nargis = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=itxnargis&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180em"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itxnargis&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180em"/>
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=itxnargis&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img width="41%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=itxnargis&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
+<br>
+
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=itxnargis&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<img width="60%" src="https://streak-stats.demolab.com?user=itxnargis&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -111,10 +113,10 @@ const nargis = {
 
 | Project | Description | Tech | Link |
 |:-------:|:-----------:|:----:|:----:|
-| ♟️ **Chess Master** | Full-featured Chess game with AI engine, puzzle mode & multiplayer | `HTML` `CSS` `JavaScript` | [View Repo](https://github.com/itxnargis/chess-frontend) |
-| 🎵 **Spotify Music Finder** | Upload any audio and instantly match it to Spotify's library | `JavaScript` `Spotify API` `React` | [View Repo](https://github.com/itxnargis/spotify-music-finder) |
-| 💊 **PrescripX** | Smart prescription management app for patients & doctors | `JavaScript` `React` `Node.js` | [View Repo](https://github.com/itxnargis/prescripx) |
-| 🌐 **Portfolio Website** | Personal portfolio showcasing projects, skills & experience | `React` `TailwindCSS` `Vercel` | [Live Demo](https://nargis-khatun.vercel.app/) |
+| 🏥 **PrescripX** | Full-stack healthcare platform for doctor appointments, prescriptions, and patient management | `MERN Stack` `React` `Node.js` `MongoDB` | [View Repo](https://github.com/itxnargis/prescripx) |
+| 🎧 **Spotify Music Finder** | Upload audio and instantly identify songs using Spotify integration | `React` `JavaScript` `Spotify API` | [View Repo](https://github.com/itxnargis/spotify-music-finder) |
+| ♞ **Chess Master** | Real-time chess game with multiplayer functionality and interactive gameplay | `HTML` `CSS` `JavaScript` | [View Repo](https://github.com/itxnargis/chess-frontend) |
+| 🌐 **Portfolio Website** | Personal portfolio showcasing projects, skills, and development journey | `React` `Tailwind CSS` `Vercel` | [Live Demo](https://nargis-khatun.vercel.app/) |
 
 </div>
 
@@ -169,7 +171,7 @@ const nargis = {
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=100&section=footer" width="100%"/>
 
-### 🙏 Thanks for stopping by! Let's build something great together.
+###  Thanks for stopping by! Let's build something great together.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=itxnargis&label=Profile%20Views&color=6C63FF&style=flat)
 [![GitHub followers](https://img.shields.io/github/followers/itxnargis?label=Followers&style=social)](https://github.com/itxnargis)
